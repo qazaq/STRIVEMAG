@@ -1,0 +1,2 @@
+# STRIVEMAG
+STRIVE is code
